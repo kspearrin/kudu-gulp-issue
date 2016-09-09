@@ -1,0 +1,8 @@
+.vs
+node_modules
+npm-debug.log
+lib/
+bin/
+obj/
+*.lock.json
+*.user
